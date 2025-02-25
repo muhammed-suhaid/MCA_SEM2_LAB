@@ -1,0 +1,15 @@
+1. mkdir -p NSA_lab/work
+
+2. touch NSA_lab/labtest1
+
+3. rm labtest1 labtest2
+
+4. cp -r ~/a* . or cp ~/a* .
+
+5. rm labtest?
+
+6. rm -ri assignments
+
+7. mv NSA_lab ~/courses
+
+8. rm ??
